@@ -27,7 +27,6 @@ require (
 	github.com/alicebob/miniredis/v2 v2.13.3
 	github.com/aliyun/aliyun-oss-go-sdk v2.0.7+incompatible
 	github.com/aliyun/aliyun-tablestore-go-sdk v1.6.0
-	github.com/andybalholm/brotli v1.0.1 // indirect
 	github.com/apache/pulsar-client-go v0.1.0
 	github.com/apache/rocketmq-client-go/v2 v2.1.0
 	github.com/apache/thrift v0.14.0 // indirect
@@ -116,7 +115,7 @@ require (
 	github.com/supplyon/gremcos v0.1.0
 	github.com/tidwall/gjson v1.8.0 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
-	github.com/valyala/fasthttp v1.21.0
+	github.com/valyala/fasthttp v1.34.0
 	github.com/vmware/vmware-go-kcl v0.0.0-20191104173950-b6c74c3fe74e
 	github.com/xeipuuv/gojsonschema v1.2.0 // indirect
 	github.com/yalp/jsonpath v0.0.0-20180802001716-5cc68e5049a0 // indirect
@@ -129,10 +128,9 @@ require (
 	go.uber.org/multierr v1.7.0 // indirect
 	go.uber.org/zap v1.18.1 // indirect
 	goji.io v2.0.2+incompatible // indirect
-	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e
-	golang.org/x/net v0.0.0-20210614182718-04defd469f4e
+	golang.org/x/crypto v0.0.0-20220214200702-86341886e292
+	golang.org/x/net v0.0.0-20220225172249-27dd8689420f
 	golang.org/x/oauth2 v0.0.0-20210220000619-9bb904979d93
-	golang.org/x/sys v0.0.0-20210616094352-59db8d763f22 // indirect
 	google.golang.org/api v0.32.0
 	google.golang.org/genproto v0.0.0-20201204160425-06b3db808446
 	google.golang.org/grpc v1.36.0
